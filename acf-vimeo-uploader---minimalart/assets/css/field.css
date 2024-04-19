@@ -1,0 +1,15 @@
+/**
+ * Included when fields of this type are rendered for editing by publishers.
+ */
+.acf-field-vimeo-uploader---minimalart .setting-font-size {
+    color: green;
+}
+
+#vimeo-embed {
+    margin: 2rem 0;
+}
+
+#vimeo-embed iframe {
+    width: auto !important;
+    height: 300px !important;
+}
