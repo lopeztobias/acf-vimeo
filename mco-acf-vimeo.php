@@ -1,7 +1,7 @@
 <?php
 
 /**
- * MinimalArt - ACF Vimeo
+ * Minimalart - ACF Vimeo
  *
  * Plugin Name:       MinimalArt - ACF Vimeo
  * Plugin URI:        minimalart.co
